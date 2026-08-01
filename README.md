@@ -1,5 +1,5 @@
-📄 # Informe Técnico del Taller
-🔖 # Nombre del Taller
+📄 #Informe Técnico del Taller
+🔖 #Nombre del Taller
 Taller X - [Nombre completo del taller]
 
 👥 # Integrantes del equipo
