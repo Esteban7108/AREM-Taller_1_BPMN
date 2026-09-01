@@ -1,4 +1,4 @@
-# 🗒️ Registro de Trabajo en Clase - Taller X
+# 🗒️ Registro de Trabajo en Clase - Taller 1
 
 ## 📆 Fecha de la sesión
 01 Agosto 2026
@@ -31,7 +31,7 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
 | Modelado final en draw.io | Esteban Díaz | 01/08 |
-| Redacción del informe y boceto inicial  | Katheron Moreno | 01/08 |
+| Redacción del informe y boceto inicial  | Katherin Moreno | 01/08 |
 
 
 ---
